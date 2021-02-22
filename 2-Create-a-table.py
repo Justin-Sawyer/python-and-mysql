@@ -1,4 +1,7 @@
 import os
+# Needs to be installed for first insertion of DOB. 
+# Can be uninstalled afterwards.
+# import datetime
 import pymysql
 
 # Get the username from the Cloud9 workspace
